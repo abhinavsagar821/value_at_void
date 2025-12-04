@@ -1,1 +1,29 @@
+{
+  "elements": [
+    {
+      "type": "sidebar",
+      "description": "Left navigation sidebar",
+      "confidence": 0.96,
+      "bounds": { "x": 0, "y": 0, "w": 260, "h": 1080 }
+    },
+    {
+      "type": "card",
+      "description": "Summary stat card",
+      "confidence": 0.92,
+      "bounds": { "x": 300, "y": 160, "w": 280, "h": 160 }
+    },
+    {
+      "type": "chart",
+      "description": "Line chart widget",
+      "confidence": 0.89,
+      "bounds": { "x": 300, "y": 360, "w": 900, "h": 300 }
+    },
+    {
+      "type": "table",
+      "description": "Recent activity table",
+      "confidence": 0.87,
+      "bounds": { "x": 300, "y": 680, "w": 1000, "h": 350 }
+    }
+  ]
+}
 
