@@ -1,1 +1,29 @@
+{
+  "elements": [
+    {
+      "type": "navbar",
+      "description": "Top navigation with logo and icons",
+      "confidence": 0.94,
+      "bounds": { "x": 0, "y": 0, "w": 1400, "h": 90 }
+    },
+    {
+      "type": "card",
+      "description": "Dashboard card #1",
+      "confidence": 0.90,
+      "bounds": { "x": 100, "y": 140, "w": 320, "h": 200 }
+    },
+    {
+      "type": "card",
+      "description": "Dashboard card #2",
+      "confidence": 0.90,
+      "bounds": { "x": 460, "y": 140, "w": 320, "h": 200 }
+    },
+    {
+      "type": "card",
+      "description": "Dashboard card #3",
+      "confidence": 0.90,
+      "bounds": { "x": 820, "y": 140, "w": 320, "h": 200 }
+    }
+  ]
+}
 
