@@ -1,1 +1,23 @@
+{
+  "elements": [
+    {
+      "type": "hero-section",
+      "description": "Main hero area with headline",
+      "confidence": 0.91,
+      "bounds": { "x": 100, "y": 100, "w": 900, "h": 350 }
+    },
+    {
+      "type": "button",
+      "description": "Primary CTA button under hero text",
+      "confidence": 0.90,
+      "bounds": { "x": 150, "y": 380, "w": 180, "h": 55 }
+    },
+    {
+      "type": "card",
+      "description": "Feature card",
+      "confidence": 0.87,
+      "bounds": { "x": 100, "y": 480, "w": 300, "h": 260 }
+    }
+  ]
+}
 
